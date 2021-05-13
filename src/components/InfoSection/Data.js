@@ -1,7 +1,6 @@
 import img1 from "../../images/svg1.svg";
 import img2 from "../../images/svg2.svg";
 import img3 from "../../images/svg3.svg";
-import img4 from "../../images/svg4.svg";
 
 export const homeObjOne = {
     id: "about",

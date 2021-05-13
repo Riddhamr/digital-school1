@@ -15,26 +15,25 @@ import {
     Img,
 } from "./InfoElements";
 
-const InfoSection = (props) => {
-    const {
-        lightBg,
-        imgStart,
-        topLine,
-        lightText,
-        headLine,
-        darkText,
-        description,
-        buttonLabel,
-        img,
-        alt,
-        primary,
-        dark,
-        dark2,
-    } = props;
-
+const InfoSection = ({
+    id,
+    lightBg,
+    imgStart,
+    topLine,
+    lightText,
+    headLine,
+    darkText,
+    description,
+    buttonLabel,
+    img,
+    alt,
+    primary,
+    dark,
+    dark2,
+}) => {
     return (
         <div>
-            <InfoContainer lightBg={lightBg}>
+            <InfoContainer lightBg={lightBg} id={id}>
                 <InfoWrapper>
                     <InfoRow imgStart={imgStart}>
                         <Column1>
@@ -52,7 +51,6 @@ const InfoSection = (props) => {
                                         smooth={true}
                                         duration={500}
                                         spy={true}
-                                        exact={true}
                                         offset={-80}
                                         primary={primary ? 1 : 0}
                                         dark={dark ? 1 : 0}
