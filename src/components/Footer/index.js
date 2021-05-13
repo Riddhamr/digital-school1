@@ -1,4 +1,6 @@
 import React from "react";
+import { animateScroll as scroll } from "react-scroll";
+
 import {
     FooterContainer,
     FooterLink,
@@ -23,6 +25,9 @@ import {
 } from "react-icons/fa";
 
 const Footer = () => {
+    const toggleHome = () => {
+        scroll.scrollToTop();
+    };
     return (
         <FooterContainer>
             <FooterWrap>
@@ -63,7 +68,9 @@ const Footer = () => {
                 </FooterLinksContainer>
                 <SocialMedia>
                     <SocialMediaWrapper>
-                        <SocialLogo to="/">Digital School</SocialLogo>
+                        <SocialLogo to="/" onClick={toggleHome}>
+                            Digital School
+                        </SocialLogo>
                         <WebsiteRights>
                             digital school © {new Date().getFullYear()} All
                             rights reserved.
