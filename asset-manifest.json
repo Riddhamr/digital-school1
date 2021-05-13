@@ -1,22 +1,24 @@
 {
   "files": {
     "main.css": "/digital-school1/static/css/main.3d26635a.chunk.css",
-    "main.js": "/digital-school1/static/js/main.8da64a42.chunk.js",
-    "main.js.map": "/digital-school1/static/js/main.8da64a42.chunk.js.map",
+    "main.js": "/digital-school1/static/js/main.2233a2a9.chunk.js",
+    "main.js.map": "/digital-school1/static/js/main.2233a2a9.chunk.js.map",
     "runtime-main.js": "/digital-school1/static/js/runtime-main.72668c63.js",
     "runtime-main.js.map": "/digital-school1/static/js/runtime-main.72668c63.js.map",
-    "static/js/2.eee655d3.chunk.js": "/digital-school1/static/js/2.eee655d3.chunk.js",
-    "static/js/2.eee655d3.chunk.js.map": "/digital-school1/static/js/2.eee655d3.chunk.js.map",
+    "static/js/2.46335c75.chunk.js": "/digital-school1/static/js/2.46335c75.chunk.js",
+    "static/js/2.46335c75.chunk.js.map": "/digital-school1/static/js/2.46335c75.chunk.js.map",
     "index.html": "/digital-school1/index.html",
     "static/css/main.3d26635a.chunk.css.map": "/digital-school1/static/css/main.3d26635a.chunk.css.map",
-    "static/js/2.eee655d3.chunk.js.LICENSE.txt": "/digital-school1/static/js/2.eee655d3.chunk.js.LICENSE.txt",
+    "static/js/2.46335c75.chunk.js.LICENSE.txt": "/digital-school1/static/js/2.46335c75.chunk.js.LICENSE.txt",
+    "static/media/svg1.b8e41778.svg": "/digital-school1/static/media/svg1.b8e41778.svg",
     "static/media/svg2.198c8835.svg": "/digital-school1/static/media/svg2.198c8835.svg",
+    "static/media/svg3.5f11287c.svg": "/digital-school1/static/media/svg3.5f11287c.svg",
     "static/media/video.7d1ea6a9.mp4": "/digital-school1/static/media/video.7d1ea6a9.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.72668c63.js",
-    "static/js/2.eee655d3.chunk.js",
+    "static/js/2.46335c75.chunk.js",
     "static/css/main.3d26635a.chunk.css",
-    "static/js/main.8da64a42.chunk.js"
+    "static/js/main.2233a2a9.chunk.js"
   ]
 }
