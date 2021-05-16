@@ -8,7 +8,7 @@ import {
     homeObjThree,
 } from "../components/InfoSection/Data";
 import Navbar from "../components/Navbar";
-import Services from "../components/Services";
+import Services from "../components/services";
 import Sidebar from "../components/Sidebar";
 
 const Home = () => {
