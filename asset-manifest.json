@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Interactive-webapp/static/css/main.3d26635a.chunk.css",
-    "main.js": "/Interactive-webapp/static/js/main.a1f599ca.chunk.js",
-    "main.js.map": "/Interactive-webapp/static/js/main.a1f599ca.chunk.js.map",
-    "runtime-main.js": "/Interactive-webapp/static/js/runtime-main.a280f7ff.js",
-    "runtime-main.js.map": "/Interactive-webapp/static/js/runtime-main.a280f7ff.js.map",
-    "static/js/2.8af95ccb.chunk.js": "/Interactive-webapp/static/js/2.8af95ccb.chunk.js",
-    "static/js/2.8af95ccb.chunk.js.map": "/Interactive-webapp/static/js/2.8af95ccb.chunk.js.map",
-    "index.html": "/Interactive-webapp/index.html",
-    "static/css/main.3d26635a.chunk.css.map": "/Interactive-webapp/static/css/main.3d26635a.chunk.css.map",
-    "static/js/2.8af95ccb.chunk.js.LICENSE.txt": "/Interactive-webapp/static/js/2.8af95ccb.chunk.js.LICENSE.txt",
-    "static/media/svg1.b8e41778.svg": "/Interactive-webapp/static/media/svg1.b8e41778.svg",
-    "static/media/svg2.198c8835.svg": "/Interactive-webapp/static/media/svg2.198c8835.svg",
-    "static/media/svg3.5f11287c.svg": "/Interactive-webapp/static/media/svg3.5f11287c.svg",
-    "static/media/video.7d1ea6a9.mp4": "/Interactive-webapp/static/media/video.7d1ea6a9.mp4"
+    "main.css": "/digital-school1/static/css/main.69931f25.chunk.css",
+    "main.js": "/digital-school1/static/js/main.a47576e6.chunk.js",
+    "main.js.map": "/digital-school1/static/js/main.a47576e6.chunk.js.map",
+    "runtime-main.js": "/digital-school1/static/js/runtime-main.72668c63.js",
+    "runtime-main.js.map": "/digital-school1/static/js/runtime-main.72668c63.js.map",
+    "static/js/2.46335c75.chunk.js": "/digital-school1/static/js/2.46335c75.chunk.js",
+    "static/js/2.46335c75.chunk.js.map": "/digital-school1/static/js/2.46335c75.chunk.js.map",
+    "index.html": "/digital-school1/index.html",
+    "static/css/main.69931f25.chunk.css.map": "/digital-school1/static/css/main.69931f25.chunk.css.map",
+    "static/js/2.46335c75.chunk.js.LICENSE.txt": "/digital-school1/static/js/2.46335c75.chunk.js.LICENSE.txt",
+    "static/media/svg1.b8e41778.svg": "/digital-school1/static/media/svg1.b8e41778.svg",
+    "static/media/svg2.198c8835.svg": "/digital-school1/static/media/svg2.198c8835.svg",
+    "static/media/svg3.5f11287c.svg": "/digital-school1/static/media/svg3.5f11287c.svg",
+    "static/media/video.7d1ea6a9.mp4": "/digital-school1/static/media/video.7d1ea6a9.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.a280f7ff.js",
-    "static/js/2.8af95ccb.chunk.js",
-    "static/css/main.3d26635a.chunk.css",
-    "static/js/main.a1f599ca.chunk.js"
+    "static/js/runtime-main.72668c63.js",
+    "static/js/2.46335c75.chunk.js",
+    "static/css/main.69931f25.chunk.css",
+    "static/js/main.a47576e6.chunk.js"
   ]
 }
